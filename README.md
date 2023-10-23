@@ -14,20 +14,18 @@
 
 
 
-<!--
-**Malay27/Malay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Malay** is a Passionate Computer Science Student and Programmer with a huge love for Java, JavaScript, DSA. 
+
+**Malay** love to travel and watch a movies.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Food ordering App on React.js
+- 🌱 I’m currently learning React.js, Salesforce 
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 📫 How to reach me: malayjiyani111@gmail.com
+- 😄 Pronouns: He, Mallu and Foody
+- ⚡ Fun fact: I love to watch cooking, 
 
 ### Numbers
 ![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
