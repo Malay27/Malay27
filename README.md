@@ -1,6 +1,6 @@
 ### Hi there , I am Malay👋
 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!--
 **Malay27/Malay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
