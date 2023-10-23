@@ -13,6 +13,13 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
+### Numbers
+![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=darcula&hide_border=true)
+
+![Malay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malay27&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
 
 <!--
