@@ -13,14 +13,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-### Numbers
-![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=darcula&hide_border=true)
-
-![Malay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malay27&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
-
 
 <!--
 **Malay27/Malay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +28,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Numbers
+![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=darcula&hide_border=true)
+
+![Malay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malay27&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/malayjiyani)
