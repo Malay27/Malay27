@@ -15,11 +15,11 @@
 
 
 <p align="center">
-**Malay** is a Passionate Computer Science Student and Programmer with a huge love for Java, JavaScript, DSA. 
+<b>Malay<b> is a Passionate Computer Science Student and Programmer with a huge love for Java, JavaScript, DSA. 
 <br>
-**Malay** love to travel 🏕️ and watch a movies 🎥.
+<b>Malay<b> love to travel 🏕️ and watch a movies 🎥.
 <br>
-**Malay** love to watch Anime ⛩️
+<b>Malay<b> love to watch Anime ⛩️
 <br>
 </p>
 
