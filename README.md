@@ -18,14 +18,14 @@
 
 **Malay** love to travel and watch a movies.
 
-Here are some ideas to get you started:
+I love to watch Anime ⛩️
 
-- 🔭 I’m currently working on Food ordering App on React.js
-- 🌱 I’m currently learning React.js, Salesforce 
+- 🔭 I’m currently working on Food ordering App on React.js.
+- 🌱 I’m currently learning React.js, Salesforce.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 How to reach me: malayjiyani111@gmail.com
 - 😄 Pronouns: He, Mallu and Foody
-- ⚡ Fun fact: I love to watch cooking, 
+- ⚡ Fun fact: I love to watch cooking and explore new foods 😋
 
 ### Numbers
 ![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
