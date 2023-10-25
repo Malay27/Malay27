@@ -14,11 +14,14 @@
 
 
 
+<p align="center">
 **Malay** is a Passionate Computer Science Student and Programmer with a huge love for Java, JavaScript, DSA. 
-
-**Malay** love to travel and watch a movies.
-
+<br>
+**Malay** love to travel 🏕️ and watch a movies 🎥.
+<br>
 **Malay** love to watch Anime ⛩️
+<br>
+</p>
 
 <p align="center">
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । <br>
