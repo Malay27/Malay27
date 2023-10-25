@@ -18,7 +18,11 @@
 
 **Malay** love to travel and watch a movies.
 
-I love to watch Anime ⛩️
+**Malay** love to watch Anime ⛩️
+
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥  
+🪶🦚राधे राधे𓃔🦚
 
 - 🔭 I’m currently working on Food ordering App on React.js.
 - 🌱 I’m currently learning React.js, Salesforce.
