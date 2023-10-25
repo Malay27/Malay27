@@ -29,6 +29,7 @@
 🪶🦚राधे राधे𓃔🦚
 </p>
 
+
 - 🔭 I’m currently working on Food ordering App on React.js.
 - 🌱 I’m currently learning React.js, Salesforce.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
@@ -36,10 +37,11 @@
 - 😄 Pronouns: He, Mallu and Foody
 - ⚡ Fun fact: I love to watch cooking and explore new foods 😋
 
+
 ### Numbers
 ![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=darcula&hide_border=true)
+![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
 
 ![Malay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malay27&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
