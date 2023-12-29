@@ -38,15 +38,6 @@
 - ⚡ Fun fact: I love to watch cooking and explore new foods 😋
 
 
-### Numbers
-![Malay's Stats](https://github-readme-stats.vercel.app/api?username=Malay27&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Malay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=darcula&hide_border=true)
-
-![Malay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malay27&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
-
-
 ### Where to find me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malayjiyani111@gmail.com)
