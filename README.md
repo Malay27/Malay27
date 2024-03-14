@@ -1,4 +1,32 @@
-### Hi there , I am Malay👋
+<h1 align="center">Hey there, I'm Malay! 👋</h1>
+
+
+<blockquote align="center">
+  कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । <br>
+  मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥ <br>
+  🪶🦚 राधे राधे 𓃔🦚
+</blockquote>
+
+
+<blockquote align="center">Inquire About React.js, JavaScript, Java, DSA</blockquote>
+<blockquote align="center">On a new path to learn Spring Boot, Vue.js</blockquote>
+<blockquote align="center">I am good at email communication: <a href="mailto:malayjiyani111@gmail.com">malayjiyani111@gmail.com</a></blockquote>
+<blockquote align="center">Traveling is beautiful 🏕️, Movies are beautiful🎥, Anime is beautiful⛩️</blockquote>
+<blockquote align="center">I am self motivated</blockquote>
+<blockquote align="center">Let's talk about food and cooking 😋</blockquote>
+
+
+
+  <br>
+
+  <br>
+
+
+<h3 align="center">⚡ Technologies & Tools</h3>
+
+<p align="center">
+  
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,37 +40,45 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  
+</div>
 
-
-
-<p align="center">
-<b>Malay<b> is a Passionate Computer Science Student and Programmer with a huge love for Java, JavaScript, DSA. 
-<br>
-<b>Malay<b> love to travel 🏕️ and watch a movies 🎥.
-<br>
-<b>Malay<b> love to watch Anime ⛩️
-<br>
 </p>
 
+  <br>
+
+  <br>
+
+<h3 align="center">Connect with me:</h3>
+
 <p align="center">
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । <br>
-मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥ <br>
-🪶🦚 राधे राधे 𓃔🦚
-</p>
 
-
-- 🔭 I’m currently working on Food ordering App on React.js.
-- 🌱 I’m currently learning React.js, Salesforce.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 📫 How to reach me: malayjiyani111@gmail.com
-- 😄 Pronouns: He, Mallu and Foody
-- ⚡ Fun fact: I love to watch cooking and explore new foods 😋
-
-
-### Where to find me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malayjiyani111@gmail.com)
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malayjiyani111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malayjiyani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/20bce111/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/reva_de_ne111)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/malay.jiyani/)
+
+</div>
+
+</p>
+
+
+<br>
+<br>
+
+
+<div align="center">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malay27&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <br>
+  <br>
+  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+  <br>
+  <br>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Malay27&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
+
+
+
