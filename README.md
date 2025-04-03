@@ -70,15 +70,5 @@
 <br>
 
 
-<div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malay27&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-  <br>
-  <br>
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Malay27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-  <br>
-  <br>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Malay27&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
-
 
 
